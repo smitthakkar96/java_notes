@@ -84,3 +84,7 @@ In java, we use abstract class and interface to achieve abstraction.
 ### Encapsulation
 Binding (or wrapping) code and data together into a single unit is known as encapsulation. For example: capsule, it is wrapped with different medicines.
 A java class is the example of encapsulation. Java bean is the fully encapsulated class because all the data members are private here.
+
+## What is package java?
+A package is a namespace that organizes a set of related classes and interfaces. Conceptually you can think of packages as being similar to different folders on your computer. You might keep HTML pages in one folder, images in another, and scripts or applications in yet another. Because software written in the Java programming language can be composed of hundreds or thousands of individual classes, it makes sense to keep things organized by placing related classes and interfaces into packages.
+
